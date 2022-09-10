@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+}
+.con2 {
+    width: 100%;
+    height: 159vh;
+    background: #272727;
+  }
+  img {
+    width: 100%;
+  }
+  .group2 {
+    position: absolute;
+    width: 600px;
+    height: 650px;
+    left: 85px;
+    top: 100px;
+    border-radius: 80px;
+  }
+  .frunza {
+    position: absolute;
+    width: 550px;
+    height: 50px;
+    left: 780px;
+    top: 178px;
+    font-family: "Jost";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    color: #ffffff;
+  }
+  .air{
+    color: green;
+  }
+  .group7 {
+    position: absolute;
+    width: 260px;
+    height: 90px;
+    left: 770px;
+    top: 450px;
+  }
+  .group6 {
+    position: absolute;
+    width: 251px;
+    height: 60px;
+    left: 1040px;
+    top: 466px;
+  }
+  .group8 {
+    position: absolute;
+    width: 522px;
+    height: 60px;
+    left: 780px;
+    top: 546px;
+  }
+  .con3 {
+    width: 100%;
+    height: 15vh;
+    background: #272727;
+  }
+  .massimo {
+    position: absolute;
+    width: 264px;
+    height: 52px;
+    left: 123px;
+    top: 830.07px;
+    font-family: "Jost";
+    font-weight: 300;
+    font-size: 36px;
+    color: #c9c9c9;
+  }
+  .life {
+    position: absolute;
+    width: 1193px;
+    height: 244px;
+    left: 123px;
+    top: 902.07px;
+    font-family: "Jost";
+    font-style: italic;
+    font-weight: 500;
+    font-size: 30px;
+    color: #ffffff;
+  }

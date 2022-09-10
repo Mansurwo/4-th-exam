@@ -1,0 +1,408 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+}
+.con1 {
+  width: 100%;
+  height: 10vh;
+  background: #272727;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+ul a {
+  text-decoration: none;
+  padding: 20px;
+  color: lightgray;
+  font-family: "Jost", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+.con2 {
+  width: 100%;
+  height: 120vh;
+  background: #272727;
+}
+img {
+  width: 100%;
+}
+.group2 {
+  position: absolute;
+  width: 600px;
+  height: 650px;
+  left: 85px;
+  top: 100px;
+  border-radius: 80px;
+}
+.frunza {
+  position: absolute;
+  width: 550px;
+  height: 50px;
+  left: 780px;
+  top: 178px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 56px;
+  color: #ffffff;
+}
+.air{
+  color: green;
+}
+.group7 {
+  position: absolute;
+  width: 260px;
+  height: 90px;
+  left: 770px;
+  top: 450px;
+}
+.group6 {
+  position: absolute;
+  width: 251px;
+  height: 60px;
+  left: 1040px;
+  top: 466px;
+}
+.group8 {
+  position: absolute;
+  width: 522px;
+  height: 60px;
+  left: 780px;
+  top: 546px;
+}
+.con3 {
+  width: 100%;
+  height: 15vh;
+  background: #272727;
+}
+.massimo {
+  position: absolute;
+  width: 264px;
+  height: 52px;
+  left: 123px;
+  top: 830.07px;
+  font-family: "Jost";
+  font-weight: 300;
+  font-size: 36px;
+  color: #c9c9c9;
+}
+.life {
+  position: absolute;
+  width: 1193px;
+  height: 244px;
+  left: 123px;
+  top: 902.07px;
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 30px;
+  color: #ffffff;
+}
+.con4 {
+  width: 100%;
+  height: 200vh;
+  background: #272727;
+}
+.portfolio {
+  position: absolute;
+  width: 192px;
+  height: 69px;
+  top: 1240px;
+  left: 123px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  color: #ffffff;
+}
+.dribble {
+  position: absolute;
+  width: 354px;
+  height: 253px;
+  left: 123px;
+  top: 1320px;
+  border-radius: 15px;
+}
+.travel {
+  position: absolute;
+  width: 354px;
+  height: 253px;
+  left: 543px;
+  top: 1320px;
+  border-radius: 15px;
+}
+.s {
+  position: absolute;
+  width: 354px;
+  height: 253px;
+  left: 963px;
+  top: 1320px;
+  border-radius: 15px;
+}
+.app {
+  position: absolute;
+  width: 354px;
+  height: 52px;
+  left: 123px;
+  top: 1580px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  text-align: center;
+  color: #ffffff;
+}
+.browse {
+  position: absolute;
+  width: 354px;
+  height: 52px;
+  left: 543px;
+  top: 1580px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  text-align: center;
+  color: #ffffff;
+}
+.web {
+  position: absolute;
+  width: 354px;
+  height: 52px;
+  left: 963px;
+  top: 1580px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  text-align: center;
+  color: #ffffff;
+}
+.see {
+  position: absolute;
+  width: 361px;
+  height: 46px;
+  left: 123px;
+  top: 1710px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+  color: #c9c9c9;
+}
+.group10 {
+  position: absolute;
+  width: 251px;
+  height: 60px;
+  left: 484px;
+  top: 1690px;
+}
+.group9 {
+  position: absolute;
+  width: 251px;
+  height: 80px;
+  left: 770px;
+  top: 1680px;
+}
+.group11 {
+  position: absolute;
+  width: 251px;
+  height: 60px;
+  left: 1066px;
+  top: 1690px;
+}
+.con5 {
+  width: 100%;
+  height: 80vh;
+  background: #272727;
+}
+.reference {
+  position: absolute;
+  width: 228px;
+  height: 69px;
+  left: 123px;
+  top: 1964.07px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  color: #ffffff;
+}
+.group51 {
+  position: absolute;
+  width: 360px;
+  height: 180px;
+  left: 117px;
+  top: 2073.07px;
+}
+.group52 {
+  position: absolute;
+  width: 360px;
+  height: 180px;
+  left: 537px;
+  top: 2073.07px;
+}
+.group53 {
+  position: absolute;
+  width: 360px;
+  height: 180px;
+  left: 957px;
+  top: 2073px;
+}
+.in {
+  position: absolute;
+  width: 208px;
+  height: 70px;
+  left: 117px;
+  top: 2423px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #ffffff;
+}
+.cell {
+  position: absolute;
+  width: 190px;
+  height: 35px;
+  left: 117px;
+  top: 2540px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #ffffff;
+}
+.net {
+  position: absolute;
+  width: 197px;
+  height: 35px;
+  left: 120px;
+  top: 2588px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #ffffff;
+}
+.folio {
+  position: absolute;
+  width: 89px;
+  height: 35px;
+  left: 700px;
+  top: 2423px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  color: #ffffff;
+}
+.d {
+  position: absolute;
+  width: 68px;
+  height: 26px;
+  left: 700px;
+  top: 2488px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #ffffff;
+}
+b {
+  position: absolute;
+  width: 65px;
+  height: 26px;
+  left: 700px;
+  top: 2544px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #c9c9c9;
+}
+.b {
+  position: absolute;
+  width: 65px;
+  height: 26px;
+  left: 700px;
+  top: 2544px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #c9c9c9;
+}
+.f {
+  position: absolute;
+  width: 87px;
+  height: 26px;
+  left: 700px;
+  top: 2600px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #c9c9c9;
+}
+.media {
+  position: absolute;
+  width: 136px;
+  height: 35px;
+  left: 990px;
+  top: 2423px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  color: #ffffff;
+}
+.link {
+  position: absolute;
+  width: 64px;
+  height: 26px;
+  left: 990px;
+  top: 2488px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #c9c9c9;
+}
+.face {
+  position: absolute;
+  width: 73px;
+  height: 26px;
+  left: 990px;
+  top: 2544px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #c9c9c9;
+}
+.inst{
+    position: absolute;
+width: 74px;
+height: 26px;
+left: 990px;
+top: 2600px;
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #C9C9C9;
+}
+.about{
+  width: 100%;
+  height: 200vh;
+}
